@@ -1,0 +1,13 @@
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache

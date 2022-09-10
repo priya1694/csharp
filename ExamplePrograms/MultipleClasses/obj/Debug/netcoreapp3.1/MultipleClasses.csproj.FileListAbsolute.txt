@@ -1,0 +1,13 @@
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\bin\Debug\netcoreapp3.1\MultipleClasses.exe
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\bin\Debug\netcoreapp3.1\MultipleClasses.deps.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\bin\Debug\netcoreapp3.1\MultipleClasses.runtimeconfig.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\bin\Debug\netcoreapp3.1\MultipleClasses.runtimeconfig.dev.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\bin\Debug\netcoreapp3.1\MultipleClasses.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\bin\Debug\netcoreapp3.1\MultipleClasses.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\obj\Debug\netcoreapp3.1\MultipleClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\obj\Debug\netcoreapp3.1\MultipleClasses.AssemblyInfoInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\obj\Debug\netcoreapp3.1\MultipleClasses.AssemblyInfo.cs
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\obj\Debug\netcoreapp3.1\MultipleClasses.csproj.CoreCompileInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\obj\Debug\netcoreapp3.1\MultipleClasses.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\obj\Debug\netcoreapp3.1\MultipleClasses.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleClasses\obj\Debug\netcoreapp3.1\MultipleClasses.genruntimeconfig.cache

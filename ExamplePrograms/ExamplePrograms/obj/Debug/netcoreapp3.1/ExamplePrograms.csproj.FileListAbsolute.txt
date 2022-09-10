@@ -1,0 +1,14 @@
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\bin\Debug\netcoreapp3.1\ExamplePrograms.exe
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\bin\Debug\netcoreapp3.1\ExamplePrograms.deps.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\bin\Debug\netcoreapp3.1\ExamplePrograms.runtimeconfig.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\bin\Debug\netcoreapp3.1\ExamplePrograms.runtimeconfig.dev.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\bin\Debug\netcoreapp3.1\ExamplePrograms.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\bin\Debug\netcoreapp3.1\ExamplePrograms.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\obj\Debug\netcoreapp3.1\ExamplePrograms.csproj.AssemblyReference.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\obj\Debug\netcoreapp3.1\ExamplePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\obj\Debug\netcoreapp3.1\ExamplePrograms.AssemblyInfoInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\obj\Debug\netcoreapp3.1\ExamplePrograms.AssemblyInfo.cs
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\obj\Debug\netcoreapp3.1\ExamplePrograms.csproj.CoreCompileInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\obj\Debug\netcoreapp3.1\ExamplePrograms.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\obj\Debug\netcoreapp3.1\ExamplePrograms.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\ExamplePrograms\obj\Debug\netcoreapp3.1\ExamplePrograms.genruntimeconfig.cache

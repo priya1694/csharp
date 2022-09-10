@@ -1,0 +1,13 @@
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\obj\Debug\netcoreapp3.1\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache

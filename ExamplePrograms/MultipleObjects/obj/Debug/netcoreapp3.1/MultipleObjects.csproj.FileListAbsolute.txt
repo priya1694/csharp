@@ -1,0 +1,13 @@
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\bin\Debug\netcoreapp3.1\MultipleObjects.exe
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\bin\Debug\netcoreapp3.1\MultipleObjects.deps.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\bin\Debug\netcoreapp3.1\MultipleObjects.runtimeconfig.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\bin\Debug\netcoreapp3.1\MultipleObjects.runtimeconfig.dev.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\bin\Debug\netcoreapp3.1\MultipleObjects.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\bin\Debug\netcoreapp3.1\MultipleObjects.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\obj\Debug\netcoreapp3.1\MultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\obj\Debug\netcoreapp3.1\MultipleObjects.AssemblyInfoInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\obj\Debug\netcoreapp3.1\MultipleObjects.AssemblyInfo.cs
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\obj\Debug\netcoreapp3.1\MultipleObjects.csproj.CoreCompileInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\obj\Debug\netcoreapp3.1\MultipleObjects.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\obj\Debug\netcoreapp3.1\MultipleObjects.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleObjects\obj\Debug\netcoreapp3.1\MultipleObjects.genruntimeconfig.cache

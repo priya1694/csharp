@@ -1,0 +1,13 @@
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\obj\Debug\netcoreapp3.1\asyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\obj\Debug\netcoreapp3.1\asyncAwait.AssemblyInfoInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\obj\Debug\netcoreapp3.1\asyncAwait.AssemblyInfo.cs
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\obj\Debug\netcoreapp3.1\asyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\bin\Debug\netcoreapp3.1\asyncAwait.exe
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\bin\Debug\netcoreapp3.1\asyncAwait.deps.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\bin\Debug\netcoreapp3.1\asyncAwait.runtimeconfig.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\bin\Debug\netcoreapp3.1\asyncAwait.runtimeconfig.dev.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\bin\Debug\netcoreapp3.1\asyncAwait.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\bin\Debug\netcoreapp3.1\asyncAwait.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\obj\Debug\netcoreapp3.1\asyncAwait.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\obj\Debug\netcoreapp3.1\asyncAwait.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\asyncAwait\obj\Debug\netcoreapp3.1\asyncAwait.genruntimeconfig.cache

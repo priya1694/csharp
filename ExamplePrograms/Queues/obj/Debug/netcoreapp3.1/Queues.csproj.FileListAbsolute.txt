@@ -1,0 +1,13 @@
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\bin\Debug\netcoreapp3.1\Queues.exe
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\bin\Debug\netcoreapp3.1\Queues.deps.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\bin\Debug\netcoreapp3.1\Queues.runtimeconfig.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\bin\Debug\netcoreapp3.1\Queues.runtimeconfig.dev.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\bin\Debug\netcoreapp3.1\Queues.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\bin\Debug\netcoreapp3.1\Queues.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\obj\Debug\netcoreapp3.1\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\obj\Debug\netcoreapp3.1\Queues.AssemblyInfoInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\obj\Debug\netcoreapp3.1\Queues.AssemblyInfo.cs
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\obj\Debug\netcoreapp3.1\Queues.csproj.CoreCompileInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\obj\Debug\netcoreapp3.1\Queues.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\obj\Debug\netcoreapp3.1\Queues.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\Queues\obj\Debug\netcoreapp3.1\Queues.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\bin\Debug\netcoreapp3.1\switchEx.exe
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\bin\Debug\netcoreapp3.1\switchEx.deps.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\bin\Debug\netcoreapp3.1\switchEx.runtimeconfig.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\bin\Debug\netcoreapp3.1\switchEx.runtimeconfig.dev.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\bin\Debug\netcoreapp3.1\switchEx.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\bin\Debug\netcoreapp3.1\switchEx.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\obj\Debug\netcoreapp3.1\switchEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\obj\Debug\netcoreapp3.1\switchEx.AssemblyInfoInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\obj\Debug\netcoreapp3.1\switchEx.AssemblyInfo.cs
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\obj\Debug\netcoreapp3.1\switchEx.csproj.CoreCompileInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\obj\Debug\netcoreapp3.1\switchEx.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\obj\Debug\netcoreapp3.1\switchEx.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\switch\obj\Debug\netcoreapp3.1\switchEx.genruntimeconfig.cache

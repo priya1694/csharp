@@ -1,0 +1,13 @@
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\obj\Debug\netcoreapp3.1\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache

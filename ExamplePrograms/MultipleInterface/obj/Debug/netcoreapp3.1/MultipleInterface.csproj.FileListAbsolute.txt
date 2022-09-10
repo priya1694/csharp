@@ -1,0 +1,13 @@
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\bin\Debug\netcoreapp3.1\MultipleInterface.exe
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\bin\Debug\netcoreapp3.1\MultipleInterface.deps.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\bin\Debug\netcoreapp3.1\MultipleInterface.runtimeconfig.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\bin\Debug\netcoreapp3.1\MultipleInterface.runtimeconfig.dev.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\bin\Debug\netcoreapp3.1\MultipleInterface.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\bin\Debug\netcoreapp3.1\MultipleInterface.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\obj\Debug\netcoreapp3.1\MultipleInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\obj\Debug\netcoreapp3.1\MultipleInterface.AssemblyInfoInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\obj\Debug\netcoreapp3.1\MultipleInterface.AssemblyInfo.cs
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\obj\Debug\netcoreapp3.1\MultipleInterface.csproj.CoreCompileInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\obj\Debug\netcoreapp3.1\MultipleInterface.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\obj\Debug\netcoreapp3.1\MultipleInterface.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\MultipleInterface\obj\Debug\netcoreapp3.1\MultipleInterface.genruntimeconfig.cache

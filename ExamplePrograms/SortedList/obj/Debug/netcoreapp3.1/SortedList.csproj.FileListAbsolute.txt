@@ -1,0 +1,13 @@
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\bin\Debug\netcoreapp3.1\SortedList.exe
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\bin\Debug\netcoreapp3.1\SortedList.deps.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.dev.json
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\bin\Debug\netcoreapp3.1\SortedList.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\bin\Debug\netcoreapp3.1\SortedList.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfoInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfo.cs
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\SortedList.dll
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\SortedList.pdb
+C:\Users\priya.sn\source\repos\ExamplePrograms\SortedList\obj\Debug\netcoreapp3.1\SortedList.genruntimeconfig.cache
